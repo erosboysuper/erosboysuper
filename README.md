@@ -1,16 +1,17 @@
-### Hi there 👋
+### Bill Ogawa
+I am a frontend focused fullstack developer with 7+years of extensive programming experience.
+And also I’m an information security expert, which means I build websites that are beautiful, fast and secure.
 
-<!--
-**erosboysuper/erosboysuper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 How to reach me: billogawa220@gmail.com
 
-Here are some ideas to get you started:
+🔗 My website: https://billogawa.herokuapp.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- HTML, CSS, SCSS, JavaScript, jQuery, JSON, AJAX, PHP, TailWindCSS
+- React.js, React Redux, React Hook, Ionic
+- Next.js Nuxt.js
+- Angular.js Vue.js
+- graphql,gatsby,nest,AWS
+- Javascript,Typescript,node,Express,PHP7
+- MySQL,MongoDB,Firebase,Postgress
+- Github
