@@ -1,5 +1,5 @@
 ### No Pain No Gain
-I am a frontend focused fullstack developer with 7+years of extensive programming experience.
+I am a frontend focused fullstack developer with 10+years of extensive programming experience.
 And also I’m an information security expert, which means I build websites that are beautiful, fast and secure.
 
 📫 How to reach me:erosboysuper@gmail.com
