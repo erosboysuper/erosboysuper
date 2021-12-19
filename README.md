@@ -2,7 +2,7 @@
 I am a frontend focused fullstack developer with 10+years of extensive programming experience.
 And also I’m an information security expert, which means I build websites that are beautiful, fast and secure.
 
-📫 How to reach me:erosboysuper@gmail.com
+
 
 🔗 My Current Projects: https://tbo.clothing/community
 
